@@ -1,0 +1,24 @@
+{
+  "name": "kavod",
+  "version": "1.0.0",
+  "description": "aplicativo para controlar remedio, exames e consultas",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_ENV=test jest --passWithNoTests --runInBand"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Uenderss/kavod-back-end.git"
+  },
+  "keywords": [
+    "kavod",
+    "idoso",
+    "saúde"
+  ],
+  "author": "Bartolomeu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Uenderss/kavod-back-end/issues"
+  },
+  "homepage": "https://github.com/Uenderss/kavod-back-end#readme"
+}
