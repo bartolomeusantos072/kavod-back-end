@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/Uenderss/kavod-back-end/issues"
   },
-  "homepage": "https://github.com/Uenderss/kavod-back-end#readme"
+  "homepage": "https://github.com/Uenderss/kavod-back-end#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^4.7.3",
+    "standard": "^17.0.0"
+  }
 }

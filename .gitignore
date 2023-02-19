@@ -1,0 +1,8 @@
+node_modules
+.env
+.env.test
+/dist
+/build
+.vscode
+.package-lock.json
+.yarn.lock
