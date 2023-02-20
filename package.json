@@ -22,7 +22,21 @@
   },
   "homepage": "https://github.com/Uenderss/kavod-back-end#readme",
   "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.52.0",
+    "@typescript-eslint/parser": "^5.52.0",
+    "eslint": "^8.34.0",
+    "eslint-config-prettier": "^8.6.0",
+    "eslint-config-standard-with-typescript": "^34.0.0",
+    "eslint-import-resolver-typescript": "^3.5.3",
+    "eslint-plugin-boundaries": "^3.1.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-n": "^15.6.1",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-promise": "^6.1.1",
     "git-commit-msg-linter": "^4.7.3",
-    "standard": "^17.0.0"
+    "husky": "^8.0.3",
+    "prettier": "^2.8.4",
+    "standard": "^17.0.0",
+    "typescript": "^4.9.5"
   }
 }
