@@ -11,3 +11,11 @@ prisma/**/*
 docker-compose*
 Dockerfile*
 nginx.conf
+.jest
+src/ui/assets/*
+yarn.lock
+.gitattributes
+.gitignore
+.prettierignore
+
+
