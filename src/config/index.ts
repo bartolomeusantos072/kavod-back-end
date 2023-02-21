@@ -1,2 +1,2 @@
-export * from "./envs";
+export * from "./env";
 export * from "./database";
